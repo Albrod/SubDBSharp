@@ -1,0 +1,6 @@
+[27.05.17 18:30]
+quedaria ajustar la interfaz
+[27.05.17 18:31]
+dar opcion para que cargue de distintos idiomas
+[27.05.17 18:31]
+y revisar algunas exepciones

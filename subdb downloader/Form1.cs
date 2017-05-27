@@ -33,7 +33,8 @@ namespace SubDBSharp
 
         private void bt_algo_Click(object sender, EventArgs e)
         {
-            tb_pruebas.Text = hacer.algo();
+            tb_pruebas.Text = hacer.look_for_subs();
+            tb_pruebas.Text = hacer.download_sub();
         }
     }
 }
